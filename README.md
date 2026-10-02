@@ -2,9 +2,9 @@
 
 # > Hello, World! I'm Daniel Swarup
 
-**Software Development Engineer II @ Amazon Development Centre Scotland**
+**Software Development Engineer II @ Amazon**
 
-*Edinburgh, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿*
+*New Delhi, India*
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-swarup/)
